@@ -1,5 +1,5 @@
 # Detecting COVID-19 in CT Images
-
+This repo contains a pre-trained model for detecting Covid-19 in CT images.
 
 
 # Overview:
@@ -32,4 +32,4 @@ A large dataset of real patients CT scans for SARS-CoV-2 identification." medRxi
 doi: https://doi.org/10.1101/2020.04.24.20078584.
 
 # Conntact
-taleb.brijawi@gmail.com
+m.taleb.albrijawi@std.medipol.edu.tr
