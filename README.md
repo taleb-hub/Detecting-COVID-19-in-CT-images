@@ -1,4 +1,8 @@
-# Detecting-COVID-19-in-CT-images
+# Detecting COVID-19 in CT Images
+
+
+
+# Overview:
 Applying deep learning techniques on the CT scan images of COVID-19
 patients would not only assist in disease diagnosis, but also help in quantifying
 the severity of the illness, and hence, prioritize the population treatment
@@ -16,5 +20,16 @@ infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 
 scans in total. These data have been collected from real patients in hospitals from Sao Paulo,
 Brazil.
 
-A large dataset of real patients CT scans for SARS-CoV-2 identification." medRxiv (2020). 
+# Requirements:
+This model is built using Python 3.7. I highly recommend you to use GPU version of tensorflow, training this model is very slow in CPU mode.
+
+- Tensorflow
+- 
+
+# Reference:
+A large dataset of real patients CT scans for SARS-CoV-2 identification." medRxiv (2020)
+
 doi: https://doi.org/10.1101/2020.04.24.20078584.
+
+# Conntact
+taleb.brijawi@gmail.com
