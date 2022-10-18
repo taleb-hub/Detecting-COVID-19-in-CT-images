@@ -18,7 +18,9 @@ detecting the COVID-19 in CT scans images.
 In this project I use a dataset containing 1252 CT scans that are positive for SARS-CoV-2
 infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 2482 CT
 scans in total. These data have been collected from real patients in hospitals from Sao Paulo,
-Brazil.
+Brazil. 
+
+Download link: https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset
 
 # Requirements:
 This model is built using Python 3.7. I highly recommend you to use GPU version of tensorflow, training this model is very slow in CPU mode.
@@ -35,5 +37,5 @@ A large dataset of real patients CT scans for SARS-CoV-2 identification." medRxi
 
 doi: https://doi.org/10.1101/2020.04.24.20078584.
 
-# Conntact
+# Contact
 m.taleb.albrijawi@std.medipol.edu.tr
