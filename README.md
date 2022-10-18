@@ -23,8 +23,12 @@ Brazil.
 # Requirements:
 This model is built using Python 3.7. I highly recommend you to use GPU version of tensorflow, training this model is very slow in CPU mode.
 
-- Tensorflow
-- 
+- tensorflow
+- seaborn
+- sklearn
+- pandas
+- numpy
+- matplotlib
 
 # Reference:
 A large dataset of real patients CT scans for SARS-CoV-2 identification." medRxiv (2020)
